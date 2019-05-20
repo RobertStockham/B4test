@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(to right, #990000, #cf7201, #ffad14, #ffdb10, #fffadb);
+}
+
+hr {
+    background-color: black;
+    border-color: black;
+}
